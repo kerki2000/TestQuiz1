@@ -1,0 +1,10 @@
+C:\Users\1896321\source\repos\QuizTest3\QuizTest3\bin\Debug\QuizTest3.exe.config
+C:\Users\1896321\source\repos\QuizTest3\QuizTest3\bin\Debug\QuizTest3.exe
+C:\Users\1896321\source\repos\QuizTest3\QuizTest3\bin\Debug\QuizTest3.pdb
+C:\Users\1896321\source\repos\QuizTest3\QuizTest3\obj\Debug\QuizTest3.csprojAssemblyReference.cache
+C:\Users\1896321\source\repos\QuizTest3\QuizTest3\obj\Debug\QuizTest3.frmCarWash.resources
+C:\Users\1896321\source\repos\QuizTest3\QuizTest3\obj\Debug\QuizTest3.Properties.Resources.resources
+C:\Users\1896321\source\repos\QuizTest3\QuizTest3\obj\Debug\QuizTest3.csproj.GenerateResource.cache
+C:\Users\1896321\source\repos\QuizTest3\QuizTest3\obj\Debug\QuizTest3.csproj.CoreCompileInputs.cache
+C:\Users\1896321\source\repos\QuizTest3\QuizTest3\obj\Debug\QuizTest3.exe
+C:\Users\1896321\source\repos\QuizTest3\QuizTest3\obj\Debug\QuizTest3.pdb
